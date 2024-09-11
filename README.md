@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ben133290/noodles">
-    <img src="assets/images/ducks-Brysia/mallard_male/base_mallord.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ben133290/date">
+    <img src="assets/images/heart.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Noodles</h3>
+<h3 align="center">date</h3>
 
   <p align="center">
     A simple game about a duck.
     <br />
-    <a href="https://github.com/ben133290/noodles"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ben133290/date"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ben133290/noodles">View Demo</a>
+    <a href="https://github.com/ben133290/date">View Demo</a>
     ·
-    <a href="https://github.com/ben133290/noodles/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ben133290/date/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/ben133290/noodles/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ben133290/date/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -77,7 +77,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-I don't know why mallard ducks are so fascinating, but making a game with a duck in it seems like a much better idea than not making a game with a duck in it. Don't you agree?
+It's gonna be a dating sim, and it's gonna be great!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +96,7 @@ Here is a list of things you need:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ben133290/noodles.git
+   git clone https://github.com/ben133290/date.git
    ```
 2. Run the game
    ```sh
@@ -134,23 +134,23 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - benheuser2@gmail.com
 
-Project Link: [https://github.com/ben133290/noodles](https://github.com/ben133290/noodles)
+Project Link: [https://github.com/ben133290/date](https://github.com/ben133290/date)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ben133290/noodles.svg?style=for-the-badge
-[contributors-url]: https://github.com/ben133290/noodles/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ben133290/noodles.svg?style=for-the-badge
-[forks-url]: https://github.com/ben133290/noodles/network/members
-[stars-shield]: https://img.shields.io/github/stars/ben133290/noodles.svg?style=for-the-badge
-[stars-url]: https://github.com/ben133290/noodles/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ben133290/noodles.svg?style=for-the-badge
-[issues-url]: https://github.com/ben133290/noodles/issues
-[license-shield]: https://img.shields.io/github/license/ben133290/noodles.svg?style=for-the-badge
-[license-url]: https://github.com/ben133290/noodles/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/ben133290/date.svg?style=for-the-badge
+[contributors-url]: https://github.com/ben133290/date/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ben133290/date.svg?style=for-the-badge
+[forks-url]: https://github.com/ben133290/date/network/members
+[stars-shield]: https://img.shields.io/github/stars/ben133290/date.svg?style=for-the-badge
+[stars-url]: https://github.com/ben133290/date/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ben133290/date.svg?style=for-the-badge
+[issues-url]: https://github.com/ben133290/date/issues
+[license-shield]: https://img.shields.io/github/license/ben133290/date.svg?style=for-the-badge
+[license-url]: https://github.com/ben133290/date/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
