@@ -36,7 +36,7 @@
 <h3 align="center">date</h3>
 
   <p align="center">
-    A simple game about a duck.
+    A simple game about dating.
     <br />
     <a href="https://github.com/ben133290/date"><strong>Explore the docs »</strong></a>
     <br />
